@@ -1,0 +1,12 @@
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\bin\Debug\Test_HotelReservationSystem.exe.config
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\bin\Debug\Test_HotelReservationSystem.exe
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\bin\Debug\Test_HotelReservationSystem.pdb
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.csproj.AssemblyReference.cache
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.FormLogin.resources
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.Properties.Resources.resources
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.csproj.GenerateResource.cache
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.exe
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.pdb
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.exe.config
+C:\Users\Toni\source\repos\Test_HotelReservationSystem\Test_HotelReservationSystem\obj\Debug\Test_HotelReservationSystem.FormDashboard.resources
